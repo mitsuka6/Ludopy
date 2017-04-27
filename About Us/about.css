@@ -1,0 +1,28 @@
+h1 {
+ color:DodgerBlue;
+ font-family: 'Codystar', cursive;
+text-align: center; 
+}
+
+
+p {
+	color:MidnightBlue;
+	font-family: 'Poiret One', cursive;
+	font-size:	20px;
+}
+
+h2 {
+	color: DodgerBlue; 
+	font-family: 'Codystar', cursive; 
+	text-align: left; 
+}
+
+li {
+	color: MidnightBlue; 
+	font-family: 'Poiret One', cursive;
+	font-size: 16px;
+	text-align: center; 
+}
+
+
+.girlswhocodegwc-logo 
